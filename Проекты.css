@@ -156,8 +156,8 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1077px;
+  .u-section-1 .u-text-1 {
+    margin-top: 130px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -167,8 +167,8 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1104px;
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
   }
 
   .u-section-1 .u-list-1 {
